@@ -1,3 +1,8 @@
+waaaaa luigi
+
+dis me
+
+
 - 👋 Hi, I’m @AatreyuShau
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

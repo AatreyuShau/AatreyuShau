@@ -1,4 +1,4 @@
-```
+```js
 aatreyu = Human(
   name = "Aatreyu Shau",
   lang = [python, java, js, cpp]
